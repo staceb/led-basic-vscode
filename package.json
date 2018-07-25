@@ -110,6 +110,6 @@
         "vscode": "^1.1.5"
     },
     "dependencies": {
-        "ohm-js": "git+https://github.com/Gamadril/ohm.git"
+        "ohm-js": "^0.14.0"
     }
 }
